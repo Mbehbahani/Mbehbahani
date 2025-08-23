@@ -49,4 +49,4 @@ I build bridges between **academic research** and **practical tools**:
 
 - 🌐 [Oploy.eu](https://oploy.eu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-behbahani-85958775/)  
-- ✉️ [Mohammad@oploy.com](mailto:Mohammad@oploy.com)  
+- ✉️ [Mohammad@oploy.com](mailto:Mohammad@oploy.eu)  
