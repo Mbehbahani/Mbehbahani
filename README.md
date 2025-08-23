@@ -3,7 +3,7 @@
 🎓 PhD in Statistics | 📊 Researcher in Statistical Methods, Optimization & Simulation  
 💻 Technical Lead @ [Oploy](https://oploy.eu) – building applied optimization & simulation tools  
 
-🔹 Over 6 years of experience in **scientific algorithm development, backend engineering, and frontend systems**.  
+🔹 Over 6 years of experience in **scientific algorithm development**.  
 
 ---
 
