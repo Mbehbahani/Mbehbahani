@@ -24,12 +24,13 @@
 ## 🛠️ Tech Stack  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nuxt,vue,postgres,git,aws,docker" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nuxt,vue,postgres,git,aws,docker,gcp,r" />
 <br>
+<img src="https://img.shields.io/badge/MATLAB-MathWorks-orange?logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Stan-Bayesian-red?logo=stan&logoColor=white" />
 <img src="https://img.shields.io/badge/OR--Tools-Optimization-blue?logo=google" />
-<img src="https://img.shields.io/badge/LaTeX-Scientific%20Writing-green?logo=latex&logoColor=white" />
-</p>  
+</p>
+
 
 ---
 
