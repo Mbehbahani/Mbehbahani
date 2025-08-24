@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Mohammad Behbahani  
-
 🎓 PhD in Statistics | 📊 Researcher in Statistical Methods, Optimization & Simulation  
 💻 Technical Lead @ [Oploy](https://oploy.eu) – building applied optimization & simulation tools  
 
