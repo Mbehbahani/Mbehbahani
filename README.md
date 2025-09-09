@@ -1,9 +1,9 @@
 
 
 
-<img width="1024" height="237" alt="Google_AI_Studio_2025-08-08T18_40_15 640Z2" src="https://github.com/user-attachments/assets/86fcf0f2-c495-4e7f-a5e9-599404b69211" />
+<img width="512" height="125" src="https://github.com/user-attachments/assets/86fcf0f2-c495-4e7f-a5e9-599404b69211" />
 
-🎓 PhD in Statistics | ![Uploading Google_AI_Studio_2025-08-08T18_40_15.640Z2.png…]()
+🎓 PhD in Statistics
 📊 Researcher in Statistical Methods, Optimization & Simulation  
 💻 Technical Lead @ [Oploy](https://oploy.eu) – building applied optimization & simulation tools  
 
