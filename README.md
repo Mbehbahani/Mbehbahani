@@ -7,7 +7,7 @@
 📊 Researcher in Statistical Methods, Optimization & Simulation  
 💻 Technical Lead @ [Oploy](https://oploy.eu) – building applied optimization & simulation tools  
 
-🔹 Over 6 years of experience in **scientific algorithm development**.  
+🔹 Applied Data Science | Optimization & AI Solutions 
 
 ---
 
