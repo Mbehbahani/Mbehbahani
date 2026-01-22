@@ -9,6 +9,8 @@
 
 🔹 Applied Data Science | Optimization & AI Solutions 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f98aee08-a352-4125-b511-54e3ebf4195e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 ## 🚀 Featured Projects  
