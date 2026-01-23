@@ -11,7 +11,7 @@
 
 ### Certifications
 
-[![AWS Cloud Quest: Cloud Practitioner]([https://images.credly.com/size/340x340/images/XXXXXXXX.png](https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob))]([https://www.credly.com/earner/earned/share/f98aee08-a352-4125-b511-54e3ebf4195e](https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url))
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/earner/earned/share/f98aee08-a352-4125-b511-54e3ebf4195e](https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url)
 
 
 ---
