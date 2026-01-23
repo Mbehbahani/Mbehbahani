@@ -4,8 +4,8 @@
 <img width="512" height="125" src="https://github.com/user-attachments/assets/86fcf0f2-c495-4e7f-a5e9-599404b69211" />
 
 🎓 PhD in Statistics
-📊 Researcher in Statistical Methods, Optimization & Simulation  
-💻 Technical Lead @ [Oploy](https://oploy.eu) – building applied optimization & simulation tools  
+📊 Researcher in Statistical & AI Methods @ [Utrecht University](https://www.uu.nl/)
+💻 Developer @ [Oploy](https://oploy.eu) 
 
 🔹 Applied Data Science | Optimization & AI Solutions 
 
