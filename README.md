@@ -9,7 +9,10 @@
 
 🔹 Applied Data Science | Optimization & AI Solutions 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f98aee08-a352-4125-b511-54e3ebf4195e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Certifications
+
+[![AWS Cloud Quest: Cloud Practitioner]([https://images.credly.com/size/340x340/images/XXXXXXXX.png](https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob))]([https://www.credly.com/earner/earned/share/f98aee08-a352-4125-b511-54e3ebf4195e](https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url))
+
 
 ---
 
