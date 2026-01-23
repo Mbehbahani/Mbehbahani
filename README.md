@@ -4,7 +4,9 @@
 <img width="512" height="125" src="https://github.com/user-attachments/assets/86fcf0f2-c495-4e7f-a5e9-599404b69211" />
 
 🎓 PhD in Statistics
+
 📊 Researcher in Statistical & AI Methods @ [Utrecht University](https://www.uu.nl/)
+
 💻 Developer @ [Oploy](https://oploy.eu) 
 
 🔹 Applied Data Science | Optimization & AI Solutions 
@@ -17,15 +19,6 @@
 
 ## 🚀 Featured Projects  
 
-- 🔧 [Repair Shop Optimizer](https://opt.oploy.eu/)  
-  *Multi-objective open-shop scheduling (SimPy + OR-Tools + React)*  
-
-- 📦 [Inventory Simulation](https://siminv.oploy.eu/)  
-  *Discrete-event inventory models (SimPy, Django, FastAPI, Nuxt, Vue)*  
-
-- 🔗 [Simulation-Optimization Lab](https://simopt.oploy.eu/)  
-  *SimPy-based simulation and metaheuristics (e.g., Genetic Algorithms) for optimization*  
-
 - 🌐 [Oploy Platform](https://oploy.eu/)  
   *Full-stack platform built with Django/Wagtail + Nuxt/React + FastAPI*  
 
@@ -34,7 +27,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nuxt,vue,postgres,git,aws,docker,gcp,r" />
+<img src="https://skillicons.dev/icons?i=python,django,AWS,fastapi,react,nuxt,vue,postgres,git,aws,docker,gcp,r" />
 <br>
 <img src="https://img.shields.io/badge/MATLAB-MathWorks-orange?logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/OR--Tools-Optimization-blue?logo=google" />
