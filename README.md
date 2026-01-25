@@ -13,9 +13,8 @@
 
 ### Certifications
 
-[![AWS Cloud Quest: Cloud Practitioner](https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-cloud-practitioner-training-badge (1).png)](https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url)
-
-[![AWS Cloud Quest: Cloud Practitioner](https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-generative-ai-practitioner-training (1).png)](https://www.credly.com/badges/29644a77-5f93-48bd-a9cc-b87a809dd07a/public_url)
+[![AWS Cloud Quest: Cloud Practitioner](https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-cloud-practitioner-training-badge.png)](https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url)
+[![AWS Cloud Quest: Cloud Practitioner](https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-generative-ai-practitioner-training.png)](https://www.credly.com/badges/29644a77-5f93-48bd-a9cc-b87a809dd07a/public_url)
 
 ---
 
