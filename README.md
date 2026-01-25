@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-generative-ai-practitioner-training.png"
        width="200" />
 </a>
+
 ---
 
 ## 🚀 Featured Projects  
