@@ -9,7 +9,7 @@
 
 💻 Developer @ [Oploy](https://oploy.eu) 
 
-🔹 Applied Data Science | Optimization & AI Solutions 
+🔹 Applied Data Scientist | Decision Intelligence Engineering 
 
 ### Certifications
 
