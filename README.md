@@ -25,12 +25,21 @@ This direction reflects the strongest overlap across the roles I target most: **
 * 🧠 **[Job Analytics Frontend](https://github.com/Mbehbahani/job-analytics-frontend)** — Next.js dashboard for job analytics, AI chat, search workflows, and CV matching built on Supabase and backend services
 * 📈 **[MLflow Tracking Server](https://github.com/Mbehbahani/mlflow-tracking-server)** — self-hosted MLflow setup for experiments, traces, evaluation, and prompt optimization in AI systems
 
-### Legacy Work
+## Research & Applied Work
 
 * 🌐 **[Oploy Platform](https://oploy.eu/)** — applied decision-support platform translating optimization models into practical tools for routing, scheduling, and network design
 * 🔬 **[2sHMMREM](https://github.com/Mbehbahani/2sHMMREM)** — reproducible research code for a two-stage Hidden Markov / Relational Event modeling framework
 * 🛠️ **[RepairShop-milp](https://github.com/Mbehbahani/RepairShop-milp)** — MILP-based research implementation for repair shop optimization
 * ⚙️ **[ANN-SMB-SemiExpSimOpt](https://github.com/Mbehbahani/ANN-SMB-SemiExpSimOpt)** — simulation-optimization and neural-network-based research code for process systems engineering
+
+---
+
+## Focus Areas
+
+- **Operations Research & Optimization** — mathematical modeling, solver-based optimization, simulation, and decision-support systems
+- **Supply Chain & Logistics Analytics** — routing, scheduling, network design, and operational performance improvement
+- **Applied AI & Data Products** — AI-assisted job search, CV matching, analytics dashboards, and LLM-enabled workflows
+- **Research to Production** — turning rigorous models and experiments into usable software and deployable systems
 
 ---
 
@@ -40,6 +49,7 @@ This direction reflects the strongest overlap across the roles I target most: **
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-MATLAB-FF6F00?style=flat&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E">
   <img src="https://img.shields.io/badge/-Operations%20Research-1D3557?style=flat&logo=googleanalytics&logoColor=white">
