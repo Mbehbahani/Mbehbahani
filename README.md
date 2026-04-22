@@ -93,12 +93,14 @@ This direction reflects the strongest overlap across the roles I target most: **
 
 ## Selected Certifications
 
-<a href="https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url">
-  <img width="120" height="120" src="https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-cloud-practitioner-training-badge.png" />
-</a>
-<a href="https://www.credly.com/badges/29644a77-5f93-48bd-a9cc-b87a809dd07a/public_url" style="margin-left:10px;">
-  <img width="120" height="120" src="https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-generative-ai-practitioner-training.png" />
-</a>
+<p align="center">
+  <a href="https://www.credly.com/badges/f98aee08-a352-4125-b511-54e3ebf4195e/public_url">
+    <img width="120" src="https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-cloud-practitioner-training-badge.png" />
+  </a>
+  <a href="https://www.credly.com/badges/29644a77-5f93-48bd-a9cc-b87a809dd07a/public_url">
+    <img width="120" src="https://raw.githubusercontent.com/Mbehbahani/Mbehbahani/master/aws-cloud-quest-generative-ai-practitioner-training.png" />
+  </a>
+</p>
 
 ---
 
