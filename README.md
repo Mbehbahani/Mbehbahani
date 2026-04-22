@@ -7,22 +7,23 @@
 
 🎓 AI & Data Integration 
 📍 Netherlands  
-🔹 **Operations Research • Data Science • Supply Chain & Logistics Optimization**
+🔹 **Operations Research • Data Science • AI Engineering**
 
 I build **decision-support systems** that connect research, optimization, analytics, and production software.
 My recent work sits at the intersection of:
 
 - **Optimization / Operations Research**
-- **Supply Chain, logistics, and job-market analytics**
 - **Applied AI and ML-powered decision tools**
 - **Production-ready Python systems with cloud deployment**
+- **Full-stack software for data and AI products**
 
-This direction reflects the strongest overlap across the roles I target most: **optimization, analytics, logistics, stakeholder-facing problem solving, and deployable software**.
+This direction reflects the strongest overlap across the roles I target most: **optimization, analytics, AI engineering, stakeholder-facing problem solving, and deployable software**.
 
 ---
 
 ## Current Projects 🚀
 
+* 🤖 **[JobPilot](https://github.com/Mbehbahani/JobPilot)** — AI-powered job orchestration platform with Kanban workflows, personalized job search, Gmail-assisted automation, and production-oriented full-stack architecture. Live at **[jobpilot.oploy.eu](https://jobpilot.oploy.eu)**
 * 🤖 **[Job Agent Backend](https://github.com/Mbehbahani/job-agent-backend)** — FastAPI-based AI backend for job search, CV matching, Bedrock-powered tool-calling, and MLflow-traced evaluation on AWS Lambda
 * 📊 **[Job Market Pipeline](https://github.com/Mbehbahani/job-market-pipeline)** — Python pipeline for scraping, filtering, standardizing, deduplicating, and exporting job postings, tuned for optimization and operations-research use cases
 * 🧠 **[Job Analytics Frontend](https://github.com/Mbehbahani/job-analytics-frontend)** — Next.js dashboard for job analytics, AI chat, search workflows, and CV matching built on Supabase and backend services
@@ -40,9 +41,9 @@ This direction reflects the strongest overlap across the roles I target most: **
 ## Focus Areas
 
 - **Operations Research & Optimization** — mathematical modeling, solver-based optimization, simulation, and decision-support systems
-- **Supply Chain & Logistics Analytics** — routing, scheduling, network design, and operational performance improvement
 - **Applied AI & Data Products** — AI-assisted job search, CV matching, analytics dashboards, and LLM-enabled workflows
 - **Research to Production** — turning rigorous models and experiments into usable software and deployable systems
+- **Full-Stack Engineering for AI Systems** — building interfaces, services, data flows, and deployment-ready tooling around intelligent applications
 
 ---
 
@@ -109,4 +110,3 @@ This direction reflects the strongest overlap across the roles I target most: **
 - 🌐 **[Oploy](https://oploy.eu)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/mohammad-behbahani-85958775/)**
 - ✉️ **[Mohammad@oploy.eu](mailto:Mohammad@oploy.eu)**
-<!-- tiny collaboration metadata update for GitHub achievement demo -->
