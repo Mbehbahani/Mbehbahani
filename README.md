@@ -12,10 +12,10 @@
 I build **decision-support systems** that connect research, optimization, analytics, and production software.
 My recent work sits at the intersection of:
 
-- **Optimization / Operations Research**
 - **Applied AI and ML-powered decision tools**
 - **Production-ready Python systems with cloud deployment**
 - **Full-stack software for data and AI products**
+- **Optimization / Operations Research**
 
 This direction reflects the strongest overlap across the roles I target most: **optimization, analytics, AI engineering, stakeholder-facing problem solving, and deployable software**.
 
@@ -110,3 +110,4 @@ This direction reflects the strongest overlap across the roles I target most: **
 - 🌐 **[Oploy](https://oploy.eu)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/mohammad-behbahani-85958775/)**
 - ✉️ **[Mohammad@oploy.eu](mailto:Mohammad@oploy.eu)**
+
