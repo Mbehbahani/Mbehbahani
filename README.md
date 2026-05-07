@@ -7,7 +7,7 @@
 
 🎓 AI & Data Integration 
 📍 Netherlands  
-🔹 **Operations Research • Data Science • AI Engineering**
+🔹 **Data Science • AI Engineering**
 
 I build **decision-support systems** that connect research, optimization, analytics, and production software.
 My recent work sits at the intersection of:
