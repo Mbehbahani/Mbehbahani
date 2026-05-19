@@ -4,52 +4,88 @@
   <img width="512" height="125" src="https://github.com/user-attachments/assets/86fcf0f2-c495-4e7f-a5e9-599404b69211" />
 </a>
 
-
-🎓 AI & Data Integration 
+🎓 Senior AI Engineer  
 📍 Netherlands  
-🔹 **Data Science • AI Engineering**
+🔹 **Production LLM Systems · RAG & Agents · Decision Intelligence**
 
-I build **decision-support systems** that connect research, optimization, analytics, and production software.
-My recent work sits at the intersection of:
+I design and ship **production LLM systems** — multi-agent architectures, retrieval-augmented generation pipelines, and evaluation infrastructure — on top of a foundation in **operations research, optimization, and probabilistic modeling**.
 
-- **Applied AI and ML-powered decision tools**
-- **Production-ready Python systems with cloud deployment**
-- **Full-stack software for data and AI products**
-- **Optimization / Operations Research**
+My work focuses on:
 
-This direction reflects the strongest overlap across the roles I target most: **optimization, analytics, AI engineering, stakeholder-facing problem solving, and deployable software**.
+- **Multi-agent LLM systems** and orchestration
+- **Enterprise RAG** with grounded, citation-aware answers
+- **LLM evaluation and AI observability**
+- **Production AI on AWS** using Bedrock, Lambda, OpenSearch, FastAPI, and MLflow
+- **Decision intelligence** where mathematical rigor supports real-world AI products
+
+I’m especially interested in building AI systems that are **deployable, measurable, and trustworthy** — not just demos.
 
 ---
 
 ## Current Projects 🚀
 
-* 🤖 **[JobPilot](https://github.com/Mbehbahani/JobPilot)** — AI-powered job orchestration platform with Kanban workflows, personalized job search, Gmail-assisted automation, and production-oriented full-stack architecture. Live at **[jobpilot.oploy.eu](https://jobpilot.oploy.eu)**
-* 🤖 **[Job Agent Backend](https://github.com/Mbehbahani/job-agent-backend)** — FastAPI-based AI backend for job search, CV matching, Bedrock-powered tool-calling, and MLflow-traced evaluation on AWS Lambda
-* 📊 **[Job Market Pipeline](https://github.com/Mbehbahani/job-market-pipeline)** — Python pipeline for scraping, filtering, standardizing, deduplicating, and exporting job postings, tuned for optimization and operations-research use cases
-* 🧠 **[Job Analytics Frontend](https://github.com/Mbehbahani/job-analytics-frontend)** — Next.js dashboard for job analytics, AI chat, search workflows, and CV matching built on Supabase and backend services
-* 📈 **[MLflow Tracking Server](https://github.com/Mbehbahani/mlflow-tracking-server)** — self-hosted MLflow setup for experiments, traces, evaluation, and prompt optimization in AI systems
+- 🏛️ **[Tax Authority Enterprise RAG](https://github.com/Mbehbahani/tax-authority-enterprise-rag)** — enterprise RAG architecture and evaluation framework for regulated tax-domain QA, with secure OpenSearch retrieval, Bedrock-based grading, citation verification, and observability.
+- 🤖 **[JobPilot](https://github.com/Mbehbahani/JobPilot)** — AI-powered job orchestration platform with Kanban workflows, personalized job search, automation, and production-oriented full-stack architecture. Live at **[jobpilot.oploy.eu](https://jobpilot.oploy.eu)**.
+- 🤖 **[job-agent-backend](https://github.com/Mbehbahani/job-agent-backend)** — FastAPI backend for AI-powered job search, CV matching, tool-calling workflows, and MLflow-traced evaluation on AWS Lambda.
+- 📈 **[mlflow-tracking-server](https://github.com/Mbehbahani/mlflow-tracking-server)** — self-hosted MLflow setup for experiments, traces, prompt optimization, and evaluation in AI systems.
+- 🧠 **[job-analytics-frontend](https://github.com/Mbehbahani/job-analytics-frontend)** — Next.js frontend for job analytics, AI chat, search workflows, and CV matching.
+- 📊 **[job-market-pipeline](https://github.com/Mbehbahani/job-market-pipeline)** — Python pipeline for scraping, filtering, normalizing, deduplicating, and exporting job-market data.
 
 ## Research & Applied Work
 
-* 🌐 **[Oploy Platform](https://oploy.eu/)** — applied decision-support platform translating optimization models into practical tools for routing, scheduling, and network design
-* 🔬 **[2sHMMREM](https://github.com/Mbehbahani/2sHMMREM)** — reproducible research code for a two-stage Hidden Markov / Relational Event modeling framework
-* 🛠️ **[RepairShop-milp](https://github.com/Mbehbahani/RepairShop-milp)** — MILP-based research implementation for repair shop optimization
-* ⚙️ **[ANN-SMB-SemiExpSimOpt](https://github.com/Mbehbahani/ANN-SMB-SemiExpSimOpt)** — simulation-optimization and neural-network-based research code for process systems engineering
+- 🌐 **[Oploy Platform](https://oploy.eu/)** — applied decision-support platform translating optimization models into practical tools for routing, scheduling, and network design.
+- 🔬 **[2sHMMREM](https://github.com/Mbehbahani/2sHMMREM)** — research code for a two-stage Hidden Markov / Relational Event Modeling framework.
+- 🛠️ **[RepairShop-milp](https://github.com/Mbehbahani/RepairShop-milp)** — MILP-based implementation for repair shop optimization.
+- ⚙️ **[ANN-SMB-SemiExpSimOpt](https://github.com/Mbehbahani/ANN-SMB-SemiExpSimOpt)** — simulation-optimization and neural-network-based research code for process systems engineering.
 
 ---
 
 ## Focus Areas
 
-- **Operations Research & Optimization** — mathematical modeling, solver-based optimization, simulation, and decision-support systems
-- **Applied AI & Data Products** — AI-assisted job search, CV matching, analytics dashboards, and LLM-enabled workflows
-- **Research to Production** — turning rigorous models and experiments into usable software and deployable systems
-- **Full-Stack Engineering for AI Systems** — building interfaces, services, data flows, and deployment-ready tooling around intelligent applications
+- **Enterprise RAG & Agentic Systems** — RBAC-safe retrieval, grounding, citation verification, orchestration, and control loops
+- **LLM Evaluation & AI Observability** — evaluation pipelines, MLflow tracing, telemetry, and prompt iteration
+- **Production AI on Cloud** — FastAPI, Docker, AWS, deployable APIs, and model-agnostic system design
+- **Applied AI Products** — intelligent job-search workflows, CV matching, analytics dashboards, and AI-assisted tools
+- **Decision Intelligence & Operations Research** — optimization, simulation, and probabilistic modeling as the mathematical layer beneath the AI systems
 
 ---
 
 ## Tech and Tools 🧰
 
-**AI, Data Science, Optimization and Analytics**
+**LLMs, RAG and Agents**
+<p>
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/-CrewAI-FF6B35?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jaeger-66CFE3?style=flat&logo=jaeger&logoColor=white">
+  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
+</p>
+
+**Development, Infrastructure and Cloud**
+<p>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white">
+  <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white">
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+</p>
+
+**Data Science, Optimization and Analytics**
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
@@ -60,35 +96,27 @@ This direction reflects the strongest overlap across the roles I target most: **
   <img src="https://img.shields.io/badge/-Optimization-0A9396?style=flat&logo=target&logoColor=white">
   <img src="https://img.shields.io/badge/-OR--Tools-4285F4?style=flat&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/-Gurobi-EE3524?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
-</p>
-
-**Development, Infrastructure and Cloud**
-<p>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
 ---
 
 ## What I Build
 
-- Optimization and simulation models for **routing, scheduling, network design, and operational decision-making**
-- AI-assisted applications for **job search, CV matching, and analytics workflows**
-- Research-to-production systems that combine **modeling rigor** with **usable software**
-- Tools that help teams move from **analysis → decision → deployment**
+- **Enterprise RAG systems** — grounded retrieval, citation verification, and evaluation-gated quality
+- **Multi-agent LLM applications** — orchestration, tool-calling, memory, and reliable workflows
+- **Evaluation pipelines and AI observability** — quality metrics, tracing, prompt iteration, and runtime visibility
+- **Production AI services on AWS** — Bedrock, Lambda, OpenSearch, FastAPI, MLflow, and CI/CD-ready systems
+- **AI-assisted products** — job search, CV matching, analytics dashboards, and decision-support tools
+- **Decision-intelligence systems** — routing, scheduling, network design, and simulation-backed applications
+
+---
+
+## Why this combination
+
+> The combination of **operations research, probabilistic modeling, and production AI engineering** is rare. Many AI engineers lack the mathematical depth for decision systems; many quantitative specialists do not build deployable products. I work where those two worlds meet,  designing AI systems that are grounded, evaluated, and production-ready.
 
 ---
 
@@ -110,4 +138,3 @@ This direction reflects the strongest overlap across the roles I target most: **
 - 🌐 **[Oploy](https://oploy.eu)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/mohammad-behbahani-85958775/)**
 - ✉️ **[Mohammad@oploy.eu](mailto:Mohammad@oploy.eu)**
-
