@@ -26,10 +26,10 @@ I’m especially interested in building AI systems that are **deployable, measur
 
 - 🏛️ **[Tax Authority Enterprise RAG](https://github.com/Mbehbahani/tax-authority-enterprise-rag)** — enterprise RAG architecture and evaluation framework for regulated tax-domain QA, with secure OpenSearch retrieval, Bedrock-based grading, citation verification, and observability.
 - 🤖 **[JobPilot](https://github.com/Mbehbahani/JobPilot)** — AI-powered job orchestration platform with Kanban workflows, personalized job search, automation, and production-oriented full-stack architecture. Live at **[jobpilot.oploy.eu](https://jobpilot.oploy.eu)**.
-- 🤖 **[job-agent-backend](https://github.com/Mbehbahani/job-agent-backend)** — FastAPI backend for AI-powered job search, CV matching, tool-calling workflows, and MLflow-traced evaluation on AWS Lambda.
+- 🤖 **[joblab-agent-api](https://github.com/Mbehbahani/joblab-agent-api)** — FastAPI backend for AI-powered job search, CV matching, tool-calling workflows, and MLflow-traced evaluation on AWS Lambda.
 - 📈 **[mlflow-tracking-server](https://github.com/Mbehbahani/mlflow-tracking-server)** — self-hosted MLflow setup for experiments, traces, prompt optimization, and evaluation in AI systems.
-- 🧠 **[job-analytics-frontend](https://github.com/Mbehbahani/job-analytics-frontend)** — Next.js frontend for job analytics, AI chat, search workflows, and CV matching.
-- 📊 **[job-market-pipeline](https://github.com/Mbehbahani/job-market-pipeline)** — Python pipeline for scraping, filtering, normalizing, deduplicating, and exporting job-market data.
+- 🧠 **[joblab-analytics-frontend](https://github.com/Mbehbahani/joblab-analytics-frontend)** — Next.js frontend for job analytics, AI chat, search workflows, and CV matching.
+- 📊 **[joblab-data-pipeline](https://github.com/Mbehbahani/joblab-data-pipeline)** — Python pipeline for scraping, filtering, normalizing, deduplicating, and exporting job-market data.
 
 ## Research & Applied Work
 
